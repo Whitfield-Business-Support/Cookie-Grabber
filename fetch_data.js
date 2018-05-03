@@ -1,3 +1,4 @@
+# taken from https://www.iubenda.com/en/help/posts/262
 var page = require('webpage').create(),
     system = require('system'),
     address,
