@@ -1,6 +1,8 @@
 # Cookie-Grabber
 Grab Cookies from a list of websites and dump them to a text file.
 
+We have used this against all our clients websites to see any 3rd party cookies that are being stored and this allows us to update our cookie policys to account for GDPR.
+
 Requirements
 ----
 Phantomjs
